@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Practice" parallel="tests">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+    <parameter name="browser" value="edge"/>
+    <test verbose="2" preserve-order="true"
+          name="Automation Task for QPros on Microsoft Edge">
+        <classes>
+            <class name="tests.AssertionsTests">
+                <methods>
+                    <include name="ValidateThinkingInHTMLIsDisplayed"/>
+                    <include name="ValidateThinkingInHTMLBookAddedToCart"/>
+                    <include name="ValidateBillingDetailsDisplayed"/>
+
+                </methods>
+            </class>
+            <class name="tests.FunctionalityTests">
+                <methods>
+                    <include name="ValidateAddToBasketFunctionality"/>
+                    <include name="ValidateShoppingCartButtonFunctionality"/>
+                    <include name="ValidateProceedToCheckoutFunctionality"/>
+                </methods>
+            </class>
+
+
+        </classes>
+    </test>
+    <parameter name="browser" value="chrome"/>
+    <test verbose="2" preserve-order="true"
+          name="Automation Task for QPros on Google Chrome">
+        <classes>
+            <class name="tests.AssertionsTests">
+                <methods>
+                    <include name="ValidateThinkingInHTMLIsDisplayed"/>
+                    <include name="ValidateThinkingInHTMLBookAddedToCart"/>
+                    <include name="ValidateBillingDetailsDisplayed"/>
+
+                </methods>
+            </class>
+            <class name="tests.FunctionalityTests">
+                <methods>
+                    <include name="ValidateAddToBasketFunctionality"/>
+                    <include name="ValidateShoppingCartButtonFunctionality"/>
+                    <include name="ValidateProceedToCheckoutFunctionality"/>
+                </methods>
+            </class>
+
+
+        </classes>
+    </test>
+</suite>

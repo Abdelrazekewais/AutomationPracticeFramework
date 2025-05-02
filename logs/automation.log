@@ -1,0 +1,194 @@
+00:08:43.185 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+00:16:03.020 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+00:18:04.978 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+00:18:05.267 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+01:32:16.177 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+01:32:16.373 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+01:39:36.510 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+01:40:11.799 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+01:46:06.757 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+01:47:37.628 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+01:47:37.858 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+01:52:08.659 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+01:53:32.735 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+01:56:30.789 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+02:01:32.392 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+02:01:48.415 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+13:51:38.312 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+14:15:02.736 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+14:16:26.787 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+14:16:31.508 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+14:20:18.968 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+14:23:30.898 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+14:26:17.861 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+14:33:05.461 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+14:33:26.704 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+14:36:01.328 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+14:36:21.675 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+14:38:59.070 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+14:39:20.357 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+15:55:03.944 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+15:58:49.129 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+16:06:20.949 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+16:06:30.094 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+16:31:47.465 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+16:33:48.635 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+16:36:26.126 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+16:40:38.534 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+16:40:44.180 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed: Completed
+18:26:48.966 [main] INFO  tests.FunctionalityTests - Validating the functionality of Shopping Cart button
+18:32:02.891 [main] INFO  tests.FunctionalityTests - Validating the functionality of Shopping Cart button
+18:38:10.063 [main] INFO  tests.FunctionalityTests - Validating the functionality of Shopping Cart button
+18:38:29.156 [main] INFO  tests.FunctionalityTests - Functionality validation completed
+18:43:34.535 [main] INFO  tests.FunctionalityTests - Validating the functionality of Proceed to Checkout button
+18:43:37.728 [main] INFO  tests.FunctionalityTests - Checkout button Functionality validation completed
+18:50:29.071 [main] INFO  tests.FunctionalityTests - Validating the functionality of Proceed to Checkout button
+18:52:36.805 [main] INFO  tests.FunctionalityTests - Validating the functionality of Proceed to Checkout button
+18:55:36.309 [main] INFO  tests.FunctionalityTests - Validating the functionality of Proceed to Checkout button
+18:57:03.455 [main] INFO  tests.FunctionalityTests - Checkout button Functionality validation completed
+20:58:36.045 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+20:58:36.294 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+20:59:35.130 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+21:00:10.600 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+21:00:52.808 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+21:00:56.814 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed: Completed
+21:01:22.308 [main] INFO  tests.FunctionalityTests - Validating Add To Basket button functionality
+21:01:56.583 [main] INFO  tests.FunctionalityTests - Validating the functionality of Shopping Cart button
+21:02:01.076 [main] INFO  tests.FunctionalityTests - Functionality validation completed
+21:02:38.765 [main] INFO  tests.FunctionalityTests - Validating the functionality of Proceed to Checkout button
+21:02:46.247 [main] INFO  tests.FunctionalityTests - Checkout button Functionality validation completed
+21:10:03.887 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+21:10:04.137 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+21:10:42.517 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+21:11:27.172 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+21:12:19.554 [main] INFO  tests.FunctionalityTests - Validating Add To Basket button functionality
+21:13:12.341 [main] INFO  tests.FunctionalityTests - Validating the functionality of Shopping Cart button
+21:14:24.992 [main] INFO  tests.FunctionalityTests - Functionality validation completed
+21:15:44.116 [main] INFO  tests.FunctionalityTests - Validating the functionality of Proceed to Checkout button
+21:34:05.746 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+21:34:05.907 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+21:36:27.485 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+21:38:52.671 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+21:40:05.554 [main] INFO  tests.FunctionalityTests - Validating Add To Basket button functionality
+21:40:06.390 [main] INFO  tests.FunctionalityTests - Add To Basket button Functionality validation completed
+21:41:40.721 [main] INFO  tests.FunctionalityTests - Validating the functionality of Shopping Cart button
+21:41:51.108 [main] INFO  tests.FunctionalityTests - Functionality validation completed
+21:42:28.602 [main] INFO  tests.FunctionalityTests - Validating the functionality of Proceed to Checkout button
+21:42:55.405 [main] INFO  tests.FunctionalityTests - Checkout button Functionality validation completed
+21:48:48.135 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+21:48:48.283 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+21:49:36.086 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+21:50:16.312 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+21:52:35.213 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+21:53:43.801 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+21:54:26.369 [main] INFO  tests.FunctionalityTests - Validating Add To Basket button functionality
+21:54:27.105 [main] INFO  tests.FunctionalityTests - Add To Basket button Functionality validation completed
+21:54:55.772 [main] INFO  tests.FunctionalityTests - Validating the functionality of Proceed to Checkout button
+21:55:28.992 [main] INFO  tests.FunctionalityTests - Validating the functionality of Shopping Cart button
+21:55:32.568 [main] INFO  tests.FunctionalityTests - Functionality validation completed
+21:57:58.990 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+21:59:35.833 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+22:02:16.319 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+22:02:19.722 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+22:05:51.535 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+22:05:51.743 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+22:07:02.377 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+22:09:52.492 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+22:09:52.676 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+22:11:15.900 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+22:17:19.430 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+22:17:19.698 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+22:18:10.364 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+22:18:14.684 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+22:20:35.014 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+22:20:35.151 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+22:20:58.734 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+22:21:04.978 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+22:22:28.345 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+22:22:50.449 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed: Completed
+22:23:44.154 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+22:23:44.330 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+22:24:07.911 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+22:24:11.833 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+22:24:42.981 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+22:24:46.136 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed: Completed
+22:25:58.808 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+22:25:58.934 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+22:26:22.717 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+22:26:27.274 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+22:27:18.976 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+22:27:24.453 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed: Completed
+22:28:05.265 [main] INFO  tests.FunctionalityTests - Validating Add To Basket button functionality
+22:28:06.045 [main] INFO  tests.FunctionalityTests - Add To Basket button Functionality validation completed
+22:28:28.237 [main] INFO  tests.FunctionalityTests - Validating the functionality of Shopping Cart button
+22:28:46.949 [main] INFO  tests.FunctionalityTests - Functionality validation completed
+22:29:22.927 [main] INFO  tests.FunctionalityTests - Validating the functionality of Proceed to Checkout button
+22:29:29.861 [main] INFO  tests.FunctionalityTests - Checkout button Functionality validation completed
+22:53:05.043 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+22:53:05.224 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+22:53:34.883 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+22:53:38.821 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+22:54:11.408 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+22:54:15.100 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed: Completed
+22:54:39.674 [main] INFO  tests.FunctionalityTests - Validating Add To Basket button functionality
+22:54:40.630 [main] INFO  tests.FunctionalityTests - Add To Basket button Functionality validation completed
+22:55:03.249 [main] INFO  tests.FunctionalityTests - Validating the functionality of Shopping Cart button
+22:55:05.241 [main] INFO  tests.FunctionalityTests - Functionality validation completed
+22:55:29.693 [main] INFO  tests.FunctionalityTests - Validating the functionality of Proceed to Checkout button
+22:55:38.034 [main] INFO  tests.FunctionalityTests - Checkout button Functionality validation completed
+22:59:56.568 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+22:59:56.689 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+23:00:31.800 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+23:00:36.479 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+23:01:12.882 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+23:01:15.746 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed: Completed
+23:02:43.975 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+23:02:44.164 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+23:03:05.702 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+23:03:11.974 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+23:03:46.250 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+23:03:49.773 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed: Completed
+23:04:20.145 [main] INFO  tests.FunctionalityTests - Validating Add To Basket button functionality
+23:04:20.943 [main] INFO  tests.FunctionalityTests - Add To Basket button Functionality validation completed
+23:04:55.719 [main] INFO  tests.FunctionalityTests - Validating the functionality of Shopping Cart button
+23:04:58.129 [main] INFO  tests.FunctionalityTests - Functionality validation completed
+23:05:37.336 [main] INFO  tests.FunctionalityTests - Validating the functionality of Proceed to Checkout button
+23:05:45.017 [main] INFO  tests.FunctionalityTests - Checkout button Functionality validation completed
+23:08:24.255 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+23:08:24.394 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+23:10:11.085 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+23:10:17.249 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+23:10:50.456 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+23:10:53.278 [main] INFO  tests.AssertionsTests - Asserting Billing details are displayed: Completed
+23:11:42.715 [main] INFO  tests.FunctionalityTests - Validating Add To Basket button functionality
+23:11:43.596 [main] INFO  tests.FunctionalityTests - Add To Basket button Functionality validation completed
+23:12:22.494 [main] INFO  tests.FunctionalityTests - Validating the functionality of Shopping Cart button
+23:12:31.821 [main] INFO  tests.FunctionalityTests - Functionality validation completed
+23:13:16.690 [main] INFO  tests.FunctionalityTests - Validating the functionality of Proceed to Checkout button
+23:13:26.267 [main] INFO  tests.FunctionalityTests - Checkout button Functionality validation completed
+23:18:17.414 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+23:19:07.051 [main] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+23:21:44.631 [TestNG-tests-2] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+23:21:44.781 [TestNG-tests-2] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+23:21:47.252 [TestNG-tests-1] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price
+23:21:47.429 [TestNG-tests-1] INFO  tests.AssertionsTests - Asserting Thinking in HTML book exist along with its price: Completed
+23:22:21.619 [TestNG-tests-2] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+23:22:30.912 [TestNG-tests-2] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+23:22:44.686 [TestNG-tests-1] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart
+23:23:06.923 [TestNG-tests-1] INFO  tests.AssertionsTests - Asserting Thinking in HTML book is added to cart: Completed
+23:23:17.094 [TestNG-tests-2] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+23:23:23.663 [TestNG-tests-2] INFO  tests.AssertionsTests - Asserting Billing details are displayed: Completed
+23:23:33.489 [TestNG-tests-1] INFO  tests.AssertionsTests - Asserting Billing details are displayed
+23:24:05.479 [TestNG-tests-1] INFO  tests.AssertionsTests - Asserting Billing details are displayed: Completed
+23:24:25.462 [TestNG-tests-1] INFO  tests.FunctionalityTests - Validating Add To Basket button functionality
+23:24:26.032 [TestNG-tests-2] INFO  tests.FunctionalityTests - Validating Add To Basket button functionality
+23:24:27.362 [TestNG-tests-2] INFO  tests.FunctionalityTests - Add To Basket button Functionality validation completed
+23:24:48.959 [TestNG-tests-1] INFO  tests.FunctionalityTests - Add To Basket button Functionality validation completed
+23:25:06.528 [TestNG-tests-2] INFO  tests.FunctionalityTests - Validating the functionality of Shopping Cart button
+23:25:09.849 [TestNG-tests-2] INFO  tests.FunctionalityTests - Functionality validation completed
+23:25:51.865 [TestNG-tests-1] INFO  tests.FunctionalityTests - Validating the functionality of Shopping Cart button
+23:25:51.866 [TestNG-tests-2] INFO  tests.FunctionalityTests - Validating the functionality of Proceed to Checkout button
+23:26:11.757 [TestNG-tests-1] INFO  tests.FunctionalityTests - Functionality validation completed
+23:26:31.239 [TestNG-tests-2] INFO  tests.FunctionalityTests - Checkout button Functionality validation completed
+23:26:55.582 [TestNG-tests-1] INFO  tests.FunctionalityTests - Validating the functionality of Proceed to Checkout button
+23:27:01.314 [TestNG-tests-1] INFO  tests.FunctionalityTests - Checkout button Functionality validation completed
