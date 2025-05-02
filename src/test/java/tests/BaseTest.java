@@ -1,7 +1,5 @@
 package tests;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -19,12 +17,12 @@ import static dataDrivenHandling.readDataProperties.readProperties;
 
 public class BaseTest {
     public WebDriver driver;
-    public Logger logger;
+
 
     @BeforeMethod(enabled = true)
     @Parameters({"browser"})
-    public void setUp( String browser) throws IOException {
-        logger = LogManager.getLogger(this.getClass());
+    public void setUp(String browser) throws IOException {
+
         switch (browser.toLowerCase()) {
             case "edge":
                 EdgeOptions edgeOptions = new EdgeOptions();

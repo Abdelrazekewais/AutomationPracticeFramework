@@ -27,6 +27,7 @@
 
         </classes>
     </test>
+
     <parameter name="browser" value="chrome"/>
     <test verbose="2" preserve-order="true"
           name="Automation Task for QPros on Google Chrome">
@@ -50,4 +51,6 @@
 
         </classes>
     </test>
+
+
 </suite>
